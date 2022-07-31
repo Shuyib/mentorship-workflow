@@ -7,7 +7,7 @@ Based on talk to [C.kipkurui](https://github.com/kipkurui) we will breakdown the
 * [] Data manipulation: pandas, numpy   
 * [] Data visualization: matplotlib, seaborn   
 * [] Machine learning: Supervised Learning, Unsupervised learning, semi-supervised learning and reinforcement learning  
-* [] Deep learning  
+* [] Deep learning: Computer vision, Sequence modeling
 * [] Network analysis  
 
 # Deployment  
@@ -18,19 +18,20 @@ Based on talk to [C.kipkurui](https://github.com/kipkurui) we will breakdown the
 # Soft skils  
 * [] Commmunication on social media 
 * [] Presentation
-* [] Writing a blogpost & Teaching something
+* [] Writing a blogpost & Teaching something  
 
-# Project
-Which project do you want to do?
+# Project  
+Which project do you want to do?  
 
-# Life compass 
+# Life compass   
 This is basically what do you want to do, how can you sustain it and how can you foster a growth mindset.
 
 # Goal 
-Become an effective genomic data scientist who can translate a problem explain by someone into a data science project & deploy your work online.
+Become an effective genomic data scientist who can translate a problem explained by someone into a data science project & deploy your work online.
 
 # Time constraint
+todo
 
-# Resources
-Grokking Machine and Deep Learning
-Machine learning bookcamp
+# Resources   
+Grokking Machine and Deep Learning  
+Machine learning bookcamp  
