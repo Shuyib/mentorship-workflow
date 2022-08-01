@@ -39,9 +39,10 @@ todo
 
 # Resources   
 Please ask your mentor to provide these books and or resources 
-* Grokking Machine learning and Grokking Deep Learning  
-* [Practical Deep Learning for Coders](https://course.fast.ai/)
-* Machine learning bookcamp  
-* Beat #1 in Kenya on [Rosalind](https://rosalind.info/problems/locations/)
-* Try tutorials of interest [Galaxy](https://training.galaxyproject.org/)
-* Learn more in this [blog](https://www.notion.so/nyab/Nyabuti-M-c86690dc31a0462abff020498ac557a1): The recommended resources 
+* [Grokking Machine learning](https://www.manning.com/books/grokking-machine-learning?query=machine%20learning%20%20b)   
+* [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=deep%20learning)   
+* [Practical Deep Learning for Coders](https://course.fast.ai/)  
+* [Machine learning bookcamp](https://www.manning.com/books/machine-learning-bookcamp?query=machine%20learning)  
+* Beat #1 in Kenya on [Rosalind](https://rosalind.info/problems/locations/)  
+* Try tutorials of interest [Galaxy](https://training.galaxyproject.org/)  
+* Learn more in this [blog](https://www.notion.so/nyab/Nyabuti-M-c86690dc31a0462abff020498ac557a1): The recommended resources   
