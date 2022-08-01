@@ -22,11 +22,11 @@ Based on conversation with [C.kipkurui](https://github.com/kipkurui) we will bre
 
 # Project  
 Which project do you want to do? 2 projects max
-[] Phylogenetics of 16S rRNA of drug resistant microbes.
-[] Siamese CNN or LSTM (Deep learning) with scoring methods to compare sequences of interest.
-[] Cell explorer and adaptation of work to bioinformatics.
-[] Exploring human 16S rRNA replicating study with investigator methods.
-[] Kenya kombucha versus Oakland California 
+[] Phylogenetics of 16S rRNA of drug resistant microbes.  
+[] Siamese CNN or LSTM (Deep learning) with scoring methods to compare sequences of interest.  
+[] Cell explorer and adaptation of work to bioinformatics.  
+[] Exploring human 16S rRNA replicating study with investigator methods.  
+[] Kenya kombucha versus Oakland California.   
 
 # Life compass   
 This is basically what do you want to do, how can you sustain what you want to do and how can you foster a growth mindset.
