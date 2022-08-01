@@ -4,8 +4,8 @@ This is a repository I give to individuals interested in practical data science 
 Based on talk to [C.kipkurui](https://github.com/kipkurui) we will breakdown the process into three steps: Foundational skills, Soft skills, Project and writing your life compass.
 
 # Foundational skills  
-* [] Data manipulation: pandas, numpy   
-* [] Data visualization: matplotlib, seaborn   
+* [] Data manipulation in Python, R & Bash
+* [] Data visualization in Python, R & Bash   
 * [] Machine learning: Supervised Learning, Unsupervised learning, semi-supervised learning and reinforcement learning  
 * [] Deep learning: Computer vision, Sequence modeling
 * [] Network analysis  
@@ -16,15 +16,20 @@ Based on talk to [C.kipkurui](https://github.com/kipkurui) we will breakdown the
 * [] mybinder.org
 
 # Soft skils  
-* [] Commmunication on social media 
+* [] Communication on social media 
 * [] Presentation
 * [] Writing a blogpost & Teaching something  
 
 # Project  
-Which project do you want to do?  
+Which project do you want to do? 2 projects max
+[] Phylogenetics of 16S rRNA of drug resistant microbes.
+[] Siamese CNN or LSTM (Deep learning) with scoring methods to compare sequences of interest.
+[] Cell explorer and adaptation of work to bioinformatics.
+[] Exploring human 16S rRNA replicating study with investigator methods.
+[] 
 
 # Life compass   
-This is basically what do you want to do, how can you sustain it and how can you foster a growth mindset.
+This is basically what do you want to do, how can you sustain what you want to do and how can you foster a growth mindset.
 
 # Goal 
 Become an effective genomic data scientist who can translate a problem explained by someone into a data science project & deploy your work online.
@@ -33,5 +38,9 @@ Become an effective genomic data scientist who can translate a problem explained
 todo
 
 # Resources   
-Grokking Machine and Deep Learning  
-Machine learning bookcamp  
+Please ask your mentor to provide these books and or resources 
+* Grokking Machine and Deep Learning  
+* Machine learning bookcamp  
+* Beat #1 in Kenya on [Rosalind](https://rosalind.info/problems/locations/)
+* Try tutorials of interest [Galaxy](https://training.galaxyproject.org/)
+
