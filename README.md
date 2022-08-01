@@ -40,7 +40,7 @@ todo
 # Resources   
 Please ask your mentor to provide these books and or resources 
 * Grokking Machine learning and Grokking Deep Learning  
-* [Practical Deep Learning for Coders](course.fast.ai)
+* [Practical Deep Learning for Coders](https://course.fast.ai/)
 * Machine learning bookcamp  
 * Beat #1 in Kenya on [Rosalind](https://rosalind.info/problems/locations/)
 * Try tutorials of interest [Galaxy](https://training.galaxyproject.org/)
