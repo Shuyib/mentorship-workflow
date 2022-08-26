@@ -29,7 +29,7 @@ Which project do you want to do? 2 projects max
 [] Kenya kombucha versus United States(Oakland, California) Kombucha.  
 
 # Life compass   
-This is basically what do you want to do, how can you sustain what you want to do and how can you foster a growth mindset.
+This is basically what do you want to do, how can you sustain what you want to do and how can you foster a growth mindset. Don't write it here. Please do that somewhere else safe.
 
 # Goal 
 Become an effective genomic data scientist who can translate a problem explained by someone into a data science project & deploy your work online.
