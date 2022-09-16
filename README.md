@@ -39,6 +39,7 @@ todo
 
 # Resources   
 Please ask your mentor to provide these books and or resources 
+* [Practical Data Ethics](https://youtube.com/playlist?list=PLtmWHNX-gukKHo6LBrdq82QadvUEwyaJ7)
 * [Grokking Machine learning](https://www.manning.com/books/grokking-machine-learning?query=machine%20learning%20%20b)   
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning?query=deep%20learning)   
 * [Practical Deep Learning for Coders](https://course.fast.ai/)  
