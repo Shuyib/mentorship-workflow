@@ -27,8 +27,8 @@ Which project do you want to do? 2 projects max
 [] Cell explorer and adaptation of work to bioinformatics.  
 [] Exploring human 16S rRNA replicating study with investigator methods.  
 [] Kenya kombucha versus United States(Oakland, California) Kombucha.  
-[] Epidermic scanner: Use a couple of sources to determine when the next outbreak of certain disease will occur.
-[] Resume scanner: Use webscraping and NLP to determine what are skills a candidate is lacking to be on the bleeding edge of the workforce.
+[] Epidermic scanner: Use a couple of sources to determine when the next outbreak of certain disease will occur.   
+[] Resume scanner: Use webscraping and NLP to determine what are skills a candidate is lacking to be on the bleeding edge of the workforce.  
 
 # Life compass   
 This is basically what do you want to do, how can you sustain what you want to do and how can you foster a growth mindset. Don't write it here. Please do that somewhere else safe.
