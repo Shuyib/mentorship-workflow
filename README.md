@@ -7,8 +7,8 @@ Based on conversation with [C.kipkurui](https://github.com/kipkurui) we will bre
 * [] Data manipulation in Python, SQL, R & Bash
 * [] Data visualization in Python, R & Bash   
 * [] Machine learning: Supervised Learning, Unsupervised learning, semi-supervised learning and reinforcement learning  
-* [] Deep learning: Computer vision, Sequence modeling
-* [] Network analysis  
+* [] Deep learning: Computer vision, Sequence modeling, Generative models (Generative adversarial networks)
+* [] Network analysis: Graph metrics, exploring graph databases and creating knowledge graphs.
 
 # Deployment  
 * [] Docker
@@ -27,6 +27,8 @@ Which project do you want to do? 2 projects max
 [] Cell explorer and adaptation of work to bioinformatics.  
 [] Exploring human 16S rRNA replicating study with investigator methods.  
 [] Kenya kombucha versus United States(Oakland, California) Kombucha.  
+[] Epidermic scanner: Use a couple of sources to determine when the next outbreak of certain disease will occur.
+[] Resume scanner: Use webscraping and NLP to determine what are skills a candidate is lacking to be on the bleeding edge of the workforce.
 
 # Life compass   
 This is basically what do you want to do, how can you sustain what you want to do and how can you foster a growth mindset. Don't write it here. Please do that somewhere else safe.
