@@ -4,6 +4,7 @@ This is a repository I give to individuals interested in practical data science 
 Based on conversation with [C.kipkurui](https://github.com/kipkurui) we will breakdown the process into three steps: Foundational skills, Soft skills, Project and writing your life compass.
 
 # Foundational skills  
+* [] Fundamentals of Data Privacy and Anonymization
 * [] Data manipulation in Python, SQL, R & Bash
 * [] Data visualization in Python, R & Bash   
 * [] Machine learning: Supervised Learning, Unsupervised learning, semi-supervised learning and reinforcement learning  
